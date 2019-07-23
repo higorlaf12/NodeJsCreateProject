@@ -1,0 +1,19 @@
+{
+  "name": "nodejscreateproject",
+  "version": "1.0.0",
+  "description": "Aprendendo a criar um projeto em node js usando os conhecimento da aulas \"Curso Web Moderno Com JavaScript 2019 Completo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorlaf12/NodeJsCreateProject.git"
+  },
+  "author": "Higor Lucas De Araujo Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorlaf12/NodeJsCreateProject/issues"
+  },
+  "homepage": "https://github.com/higorlaf12/NodeJsCreateProject#readme"
+}
