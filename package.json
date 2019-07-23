@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/higorlaf12/NodeJsCreateProject/issues"
   },
-  "homepage": "https://github.com/higorlaf12/NodeJsCreateProject#readme"
+  "homepage": "https://github.com/higorlaf12/NodeJsCreateProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
