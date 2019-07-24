@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "promise-status-async": "^1.1.9"
+  }
+}
